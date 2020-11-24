@@ -1,4 +1,4 @@
-# software_process
+# software process notes
 
 This is my personal class notes for software process.
 
